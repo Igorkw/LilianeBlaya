@@ -1,0 +1,1645 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\css\\toggle-menu.css",
+      "PackagePath": "staticwebassets\\css\\toggle-menu.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\backup.txt",
+      "PackagePath": "staticwebassets\\icon\\backup.txt"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\font2\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\icon\\font2\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\font2\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\icon\\font2\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\font2\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\icon\\font2\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\font2\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\icon\\font2\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\font2\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\icon\\font2\\Flaticon.woff2"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\font2\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\icon\\font2\\_flaticon.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\font2\\flaticon.css",
+      "PackagePath": "staticwebassets\\icon\\font2\\flaticon.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\font2\\flaticon.html",
+      "PackagePath": "staticwebassets\\icon\\font2\\flaticon.html"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\icon\\font\\flaticon.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\font\\flaticon.eot",
+      "PackagePath": "staticwebassets\\icon\\font\\flaticon.eot"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\icon\\font\\flaticon.html"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\font\\flaticon.scss",
+      "PackagePath": "staticwebassets\\icon\\font\\flaticon.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\font\\flaticon.svg",
+      "PackagePath": "staticwebassets\\icon\\font\\flaticon.svg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\font\\flaticon.ttf",
+      "PackagePath": "staticwebassets\\icon\\font\\flaticon.ttf"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\font\\flaticon.woff",
+      "PackagePath": "staticwebassets\\icon\\font\\flaticon.woff"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\font\\flaticon.woff2",
+      "PackagePath": "staticwebassets\\icon\\font\\flaticon.woff2"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\icon\\license\\license.html",
+      "PackagePath": "staticwebassets\\icon\\license\\license.html"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\Logo-Branca_02.png",
+      "PackagePath": "staticwebassets\\img\\Logo-Branca_02.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\construcao.png",
+      "PackagePath": "staticwebassets\\img\\construcao.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\logo-lateral.png",
+      "PackagePath": "staticwebassets\\img\\logo-lateral.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\logo-shortcut-icon.png",
+      "PackagePath": "staticwebassets\\img\\logo-shortcut-icon.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\perfilLili.jpg",
+      "PackagePath": "staticwebassets\\img\\perfilLili.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\pg-construcao.png",
+      "PackagePath": "staticwebassets\\img\\pg-construcao.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\01-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\01-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\01.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\02-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\02-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\02.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\02.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\03-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\03-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\03.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\03.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\04-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\04-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\04.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\04.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\05-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\05-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\05.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\05.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\06-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\06-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\06.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\apresentacoes-de-empresa\\06.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\01-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\01-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\01.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\02-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\02-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\02.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\03-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\03-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\03.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\03.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\04-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\04-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\04.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\04.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\05-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\05-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\05.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\05.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\06-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\06-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\06.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\06.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\07-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\07-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\07.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\07.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\08-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\08-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\08.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\banners-e-pranchas-de-apresentacao\\08.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\camisetas\\01-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\camisetas\\01-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\camisetas\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\camisetas\\01.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\capas-de-livros\\01-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\capas-de-livros\\01-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\capas-de-livros\\01.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\capas-de-livros\\01.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\capas-de-livros\\02-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\capas-de-livros\\02-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\capas-de-livros\\02.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\capas-de-livros\\02.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\capas-de-livros\\03-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\capas-de-livros\\03-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\capas-de-livros\\03.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\capas-de-livros\\03.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\01-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\01-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\01.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\01.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\02-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\02-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\02.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\03-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\03-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\03.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\03.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\04-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\04-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\04.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\04.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\05-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\05-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\05.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\05.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\06-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\06-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\06.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\06.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\07-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\07-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\07.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\07.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\08-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\08-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\08.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\08.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\09-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\09-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\09.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\09.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\10-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\10-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\10.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\10.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\11-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\11-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\cartoes-de-visita\\11.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\cartoes-de-visita\\11.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\convites-e-panfletos\\01-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\convites-e-panfletos\\01-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\convites-e-panfletos\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\convites-e-panfletos\\01.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\convites-e-panfletos\\02-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\convites-e-panfletos\\02-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\convites-e-panfletos\\02.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\convites-e-panfletos\\02.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\convites-e-panfletos\\03-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\convites-e-panfletos\\03-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\convites-e-panfletos\\03.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\convites-e-panfletos\\03.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\convites-e-panfletos\\04-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\convites-e-panfletos\\04-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\convites-e-panfletos\\04.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\convites-e-panfletos\\04.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\diagramacao\\01-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\diagramacao\\01-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\diagramacao\\01.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\diagramacao\\01.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\diagramacao\\02-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\diagramacao\\02-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\diagramacao\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\diagramacao\\02.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\diagramacao\\03-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\diagramacao\\03-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\diagramacao\\03.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\diagramacao\\03.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\diagramacao\\04-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\diagramacao\\04-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\diagramacao\\04.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\diagramacao\\04.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\diagramacao\\05-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\diagramacao\\05-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\diagramacao\\05.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\diagramacao\\05.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\fachadas\\01-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\fachadas\\01-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\fachadas\\01.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\fachadas\\01.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\fachadas\\02-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\fachadas\\02-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\fachadas\\02.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\fachadas\\02.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\fachadas\\03-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\fachadas\\03-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\fachadas\\03.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\fachadas\\03.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\fachadas\\04-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\fachadas\\04-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\fachadas\\04.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\fachadas\\04.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\ilustracao-de-livro\\01-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\ilustracao-de-livro\\01-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\ilustracao-de-livro\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\ilustracao-de-livro\\01.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\logotipos\\01-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\logotipos\\01-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\logotipos\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\logotipos\\01.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\logotipos\\02-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\logotipos\\02-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\logotipos\\02.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\logotipos\\02.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\logotipos\\03-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\logotipos\\03-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\logotipos\\03.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\logotipos\\03.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\logotipos\\04-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\logotipos\\04-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\logotipos\\04.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\logotipos\\04.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\posts\\01-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\posts\\01-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\posts\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\posts\\01.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\posts\\02-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\posts\\02-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\posts\\02.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\posts\\02.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\posts\\03-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\posts\\03-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\posts\\03.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\posts\\03.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\posts\\04-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\posts\\04-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\posts\\04.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\posts\\04.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\separador.0.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\separador.0.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\separador.1.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\separador.1.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\separador.10.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\separador.10.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\separador.11.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\separador.11.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\separador.12.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\separador.12.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\separador.2.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\separador.2.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\separador.3.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\separador.3.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\separador.4.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\separador.4.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\separador.5.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\separador.5.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\separador.6.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\separador.6.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\separador.7.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\separador.7.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\separador.8.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\separador.8.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\separador.9.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\separador.9.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\stories\\01-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\stories\\01-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\stories\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\stories\\01.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\stories\\02-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\stories\\02-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\stories\\02.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\stories\\02.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\stories\\03-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\stories\\03-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\stories\\03.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\stories\\03.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\stories\\04-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\stories\\04-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\stories\\04.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\stories\\04.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\thumbnails\\01-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\thumbnails\\01-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\thumbnails\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\thumbnails\\01.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\thumbnails\\02-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\thumbnails\\02-thumb.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\thumbnails\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\thumbnails\\02.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\thumbnails\\03-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\thumbnails\\03-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\thumbnails\\03.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\thumbnails\\03.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\thumbnails\\04-thumb.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\thumbnails\\04-thumb.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\img\\site-projetos-graficos\\thumbnails\\04.png",
+      "PackagePath": "staticwebassets\\img\\site-projetos-graficos\\thumbnails\\04.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\js\\jquery-2.1.3.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.1.3.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\js\\navbar.js",
+      "PackagePath": "staticwebassets\\js\\navbar.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\.gitignore"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\.jshintrc",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\.jshintrc"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\.travis.yml",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\.travis.yml"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\Gruntfile.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\README.md",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\README.md"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\bower.json"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\component.json",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\component.json"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\dist\\default-skin\\default-skin.css",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\dist\\default-skin\\default-skin.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\dist\\default-skin\\default-skin.png",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\dist\\default-skin\\default-skin.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\dist\\default-skin\\default-skin.svg",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\dist\\default-skin\\default-skin.svg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\dist\\default-skin\\preloader.gif",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\dist\\default-skin\\preloader.gif"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\dist\\photoswipe-ui-default.js",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\dist\\photoswipe-ui-default.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\dist\\photoswipe-ui-default.min.js",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\dist\\photoswipe-ui-default.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\dist\\photoswipe.css",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\dist\\photoswipe.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\dist\\photoswipe.js",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\dist\\photoswipe.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\dist\\photoswipe.min.js",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\dist\\photoswipe.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\package.json",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\package.json"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\photoswipe.json",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\photoswipe.json"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\css\\_main-settings.scss",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\css\\_main-settings.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\css\\default-skin\\default-skin-svg.sketch\\Data",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\css\\default-skin\\default-skin-svg.sketch"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\css\\default-skin\\default-skin-svg.sketch\\metadata",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\css\\default-skin\\default-skin-svg.sketch"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\css\\default-skin\\default-skin-svg.sketch\\version",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\css\\default-skin\\default-skin-svg.sketch"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\css\\default-skin\\default-skin.png",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\css\\default-skin\\default-skin.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\css\\default-skin\\default-skin.psd",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\css\\default-skin\\default-skin.psd"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\css\\default-skin\\default-skin.scss",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\css\\default-skin\\default-skin.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\css\\default-skin\\default-skin.svg",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\css\\default-skin\\default-skin.svg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\css\\default-skin\\preloader.gif",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\css\\default-skin\\preloader.gif"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\css\\main.scss",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\css\\main.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\js\\core.js",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\js\\core.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\js\\desktop-zoom.js",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\js\\desktop-zoom.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\js\\framework-bridge.js",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\js\\framework-bridge.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\js\\gestures.js",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\js\\gestures.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\js\\history.js",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\js\\history.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\js\\items-controller.js",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\js\\items-controller.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\js\\show-hide-transition.js",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\js\\show-hide-transition.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\js\\tap.js",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\js\\tap.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\src\\js\\ui\\photoswipe-ui-default.js",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\src\\js\\ui\\photoswipe-ui-default.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\_includes\\menu.html",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\_includes\\menu.html"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\_layouts\\default.html",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\_layouts\\default.html"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\documentation\\api.md",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\documentation\\api.md"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\documentation\\creating-custom-ui.md",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\documentation\\creating-custom-ui.md"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\documentation\\custom-html-in-slides.md",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\documentation\\custom-html-in-slides.md"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\documentation\\faq.md",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\documentation\\faq.md"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\documentation\\getting-started.md",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\documentation\\getting-started.md"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\documentation\\options.md",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\documentation\\options.md"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\documentation\\performance-tips.md",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\documentation\\performance-tips.md"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\documentation\\responsive-images.md",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\documentation\\responsive-images.md"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\documentation\\seo.md",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\documentation\\seo.md"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\documentation\\updates.md",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\documentation\\updates.md"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\index.html",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\index.html"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\site-assets\\site.css",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\site-assets\\site.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\apple-touch-icon-144x144.png",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\apple-touch-icon-144x144.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\favicon.ico",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\favicon.ico"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\fullscreen-laptop.jpg",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\fullscreen-laptop.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\grunt-logo.png",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\grunt-logo.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\high-dpi-icons.png",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\high-dpi-icons.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\history.png",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\history.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\horizontal-swipe.jpg",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\horizontal-swipe.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\keyboard.jpg",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\keyboard.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\lazy-loading.jpg",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\lazy-loading.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\lowres.jpg",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\lowres.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\luke45.png",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\luke45.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\pinch.jpg",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\pinch.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\progressive.jpg",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\progressive.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\share.png",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\share.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\spread.jpg",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\spread.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\twitter.svg",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\twitter.svg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\PhotoSwipe-master\\website\\test\\vertical-swipe.jpg",
+      "PackagePath": "staticwebassets\\lib\\PhotoSwipe-master\\website\\test\\vertical-swipe.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\.editorconfig",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\.editorconfig"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\.gitattributes",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\.gitattributes"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\.gitignore"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\.jscsrc",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\.jscsrc"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\.jshintrc",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\.jshintrc"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\.travis.yml",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\.travis.yml"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\Gruntfile.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\README.md",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\README.md"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\bower.json"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\contributing.md",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\contributing.md"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\1-1600.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\1-1600.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\1-375.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\1-375.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\1-480.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\1-480.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\13-1600.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\13-1600.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\13-375.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\13-375.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\13-480.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\13-480.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\13.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\13.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\2-1600.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\2-1600.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\2-375.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\2-375.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\2-480.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\2-480.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\2.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\4-1600.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\4-1600.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\4-375.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\4-375.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\4-480.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\4-480.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\4.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\thumb-13.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\thumb-13.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\img\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\img\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\demo\\index.html",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\demo\\index.html"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\css\\lg-fb-comment-box.css",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\css\\lg-fb-comment-box.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\css\\lg-fb-comment-box.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\css\\lg-fb-comment-box.min.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\css\\lg-transitions.css",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\css\\lg-transitions.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\css\\lg-transitions.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\css\\lg-transitions.min.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\css\\lightgallery.css",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\css\\lightgallery.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\css\\lightgallery.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\css\\lightgallery.min.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\fonts\\lg.svg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\fonts\\lg.svg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\fonts\\lg.ttf",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\fonts\\lg.ttf"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\fonts\\lg.woff",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\fonts\\lg.woff"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\img\\loading.gif"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\img\\video-play.png",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\img\\video-play.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\img\\vimeo-play.png",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\img\\vimeo-play.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\img\\youtube-play.png",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\img\\youtube-play.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\js.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\js.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\js\\lightgallery-all.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\js\\lightgallery-all.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\js\\lightgallery-all.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\js\\lightgallery-all.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\js\\lightgallery.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\js\\lightgallery.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\js\\lightgallery.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\js\\lightgallery.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\dist\\js\\lightgallery.min.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\dist\\js\\lightgallery.min.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\jquery\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\jquery\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\lib\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\lib\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\lib\\lg.png",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\lib\\lg.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\lib\\picturefill.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\lib\\picturefill.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\lightGallery.jquery.json",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\lightGallery.jquery.json"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-autoplay.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-autoplay.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-autoplay.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-autoplay.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-fullscreen.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-fullscreen.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-fullscreen.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-fullscreen.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-hash.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-hash.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-hash.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-hash.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-pager.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-pager.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-pager.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-pager.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-rotate.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-rotate.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-rotate.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-rotate.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-share.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-share.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-share.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-share.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-thumbnail.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-thumbnail.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-thumbnail.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-thumbnail.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-video.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-video.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-video.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-video.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-zoom.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-zoom.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\modules\\lg-zoom.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\modules\\lg-zoom.min.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\package-lock.json"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\package.json",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\package.json"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\selection.json",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\selection.json"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\css\\lg-fb-comment-box.css",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\css\\lg-fb-comment-box.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\css\\lg-fb-comment-box.css.map",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\css\\lg-fb-comment-box.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\css\\lg-transitions.css",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\css\\lg-transitions.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\css\\lg-transitions.css.map",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\css\\lg-transitions.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\css\\lightgallery.css",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\css\\lightgallery.css"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\css\\lightgallery.css.map",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\css\\lightgallery.css.map"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\fonts\\lg.svg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\fonts\\lg.svg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\fonts\\lg.ttf",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\fonts\\lg.ttf"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\fonts\\lg.woff",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\fonts\\lg.woff"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\img\\loading.gif"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\img\\video-play.png",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\img\\video-play.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\img\\vimeo-play.png",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\img\\vimeo-play.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\img\\youtube-play.png",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\img\\youtube-play.png"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\js\\.jshintrc",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\js\\.jshintrc"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\js\\lightgallery.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\js\\lightgallery.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lg-animations.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lg-animations.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lg-autoplay.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lg-autoplay.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lg-core.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lg-core.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lg-fb-comment-box.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lg-fb-comment-box.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lg-fonts.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lg-fonts.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lg-fullscreen.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lg-fullscreen.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lg-mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lg-mixins.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lg-pager.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lg-pager.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lg-rotate.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lg-rotate.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lg-share.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lg-share.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lg-theme-default.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lg-theme-default.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lg-thumbnail.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lg-thumbnail.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lg-transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lg-transitions.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lg-variables.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lg-variables.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lg-video.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lg-video.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lg-zoom.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lg-zoom.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\lightgallery.scss",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\lightgallery.scss"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\src\\sass\\prepros.cfg",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\src\\sass\\prepros.cfg"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\test\\.jshintrc",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\test\\.jshintrc"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\test\\lightgallery.html",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\test\\lightgallery.html"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\lib\\lightGallery-master\\test\\lightgallery_test.js",
+      "PackagePath": "staticwebassets\\lib\\lightGallery-master\\test\\lightgallery_test.js"
+    },
+    {
+      "Id": "D:\\TI\\Web\\Portfólio\\Sites\\site Lili\\.NET\\LilianeBlaya\\WebApplication1\\wwwroot\\w3\\style.css",
+      "PackagePath": "staticwebassets\\w3\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

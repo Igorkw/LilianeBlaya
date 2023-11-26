@@ -1,0 +1,126 @@
+
+nav,
+.navbar-toggle {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+nav {
+  position: fixed;
+  z-index: 10;
+  background-color:rgba(104, 104, 104, 0.919);
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  display: table;
+  color: white;
+}
+
+.nav-hide { display: none; }
+
+nav ul {
+  display: table-cell;
+  vertical-align: middle;
+  padding-left: 0 !important;
+}
+
+nav ul li { list-style: none; }
+
+nav ul li a {
+  font-size: 30pt;
+  line-height: 2em;
+  color: inherit;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+.navbar-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 45px;
+  height: 45px;
+  z-index: 20;
+  cursor: pointer;
+}
+
+.bar1,
+.bar2,
+.bar3 {
+  width: 80%;
+  height: 5px;
+  margin-bottom: 5px;
+  background-color: #fff;
+  transition: all 0.3s ease-in-out;
+}
+
+.navbar-on .bar1,
+.navbar-on .bar2,
+.navbar-on .bar3 { background-color: #dda300; }
+
+.navbar-on .bar1 {
+  transform-origin: 10% 40%;
+  transform: rotate(45deg);
+}
+
+.navbar-on .bar3 {
+  transform-origin: 10% 40%;
+  transform: rotate(-45deg);
+}
+
+.navbar-on .bar2 { background-color: transparent; }
+
+/*============================================|
+|                                             |
+|                Media queries                |
+|                                             |
+|============================================*/
+/*Celular*/
+@media only screen and (max-width: 600px){
+  .menu{
+    z-index: 2;
+  }
+  .caixa-divisoes{
+    z-index: 1;
+  }
+  .navbar-toggle {
+    top: 20px;
+    right: 10px;
+  }
+
+  .bar1,
+  .bar2,
+  .bar3 {
+    width: 70%;
+    height: 4px;
+  }
+}
+
+/*Tablet*/
+@media only screen and (min-width: 600px) and (max-width: 1024px){
+  .navbar-toggle {
+    top: 30px;
+    right: 30px;
+  }
+
+  .bar1,
+  .bar2,
+  .bar3 {
+    width: 100%;
+    height: 8px;
+  }
+}
+
+
+
+/*Desktop*/
+@media only screen and (min-width: 1024px){
+  nav ul li a {
+    font-size: 40pt;
+    line-height: 3em;
+  } 
+}

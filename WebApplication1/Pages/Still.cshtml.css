@@ -1,0 +1,8 @@
+﻿body {
+    background-color: #000;
+}
+
+.caixa-divisoes {
+    background: url("/img/pg-construcao.png") center no-repeat;
+    background-size: 35%;
+}

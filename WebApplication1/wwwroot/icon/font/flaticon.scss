@@ -1,0 +1,53 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?8c9b853a203791dc1acaa4d3767cc302") format("truetype"),
+url("./flaticon.woff?8c9b853a203791dc1acaa4d3767cc302") format("woff"),
+url("./flaticon.woff2?8c9b853a203791dc1acaa4d3767cc302") format("woff2"),
+url("./flaticon.eot?8c9b853a203791dc1acaa4d3767cc302#iefix") format("embedded-opentype"),
+url("./flaticon.svg?8c9b853a203791dc1acaa4d3767cc302#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "instagram-1": "\f101",
+    "instagram-2": "\f102",
+    "instagram": "\f103",
+    "linkedin-1": "\f104",
+    "linkedin": "\f105",
+    "whatsapp-1": "\f106",
+    "whatsapp": "\f107",
+);
+
+.flaticon-instagram-1:before {
+    content: map-get($flaticon-map, "instagram-1");
+}
+.flaticon-instagram-2:before {
+    content: map-get($flaticon-map, "instagram-2");
+}
+.flaticon-instagram:before {
+    content: map-get($flaticon-map, "instagram");
+}
+.flaticon-linkedin-1:before {
+    content: map-get($flaticon-map, "linkedin-1");
+}
+.flaticon-linkedin:before {
+    content: map-get($flaticon-map, "linkedin");
+}
+.flaticon-whatsapp-1:before {
+    content: map-get($flaticon-map, "whatsapp-1");
+}
+.flaticon-whatsapp:before {
+    content: map-get($flaticon-map, "whatsapp");
+}

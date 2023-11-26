@@ -1,0 +1,18 @@
+/* _content/WebApplication1/Pages/Grafico.cshtml.rz.scp.css */
+body[b-6vl2fwdyin] {
+}
+/* _content/WebApplication1/Pages/Index.cshtml.rz.scp.css */
+body[b-2uayqwgjuo] {
+    overflow-y: hidden !important;
+    background: #fff;
+}
+/* _content/WebApplication1/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* _content/WebApplication1/Pages/Still.cshtml.rz.scp.css */
+body[b-o1ympicspr] {
+    background-color: #000;
+}
+
+.caixa-divisoes[b-o1ympicspr] {
+    background: url("/img/pg-construcao.png") center no-repeat;
+    background-size: 35%;
+}

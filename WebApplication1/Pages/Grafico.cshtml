@@ -1,0 +1,500 @@
+﻿@page
+@model WebApplication1.Pages.GraficoModel
+@{
+    ViewData["Title"] = "Gráfico";
+}
+@section styles{
+    <link rel="Stylesheet" href="@Href("~/lib/lightGallery-master/dist/css/lightgallery.css")" />
+    <link rel="Stylesheet" href="@Href("~/w3/style.css")" />
+}
+<!--
+       <div id="lightgallery" class="row gy-4" style="padding: 80px 0;">
+           <h1>TESTESTESTESTESTESTESTES</h1>
+           <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item card1 " data-aos="fade" data-src="img/site-projetos-graficos/apresentacoes-de-empresa/01.png" data-sub-html="">
+               <a href="#"></a><img src="img/site-projetos-graficos/apresentacoes-de-empresa/01.png" alt="IMage" class="img-fluid"></a>
+           </div>
+           <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item card1 " data-aos="fade" data-src="img/site-projetos-graficos/11b82893577695.5e6860f371ac7.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam omnis quaerat molestiae, praesentium. Ipsam, reiciendis. Aut molestiae animi earum laudantium.</p>">
+               <a href="#"><img src="img/site-projetos-graficos/11b82893577695.5e6860f371ac7.jpg" alt="IMage" class="img-fluid"></a>
+           </div>
+           <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item card1 " data-aos="fade" data-src="img/site-projetos-graficos/2a299f93577695.5e6860f370df8.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem reiciendis, dolorum illo temporibus culpa eaque dolore rerum quod voluptate doloribus.</p>">
+               <a href="#"><img src="img/site-projetos-graficos/2a299f93577695.5e6860f370df8.jpg" alt="IMage" class="img-fluid"></a>
+           </div>
+           <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item card1 " data-aos="fade" data-src="img/site-projetos-graficos/2a299f93577695.5e6860f370df8.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem reiciendis, dolorum illo temporibus culpa eaque dolore rerum quod voluptate doloribus.</p>">
+               <a href="#"><img src="img/site-projetos-graficos/2a299f93577695.5e6860f370df8.jpg" alt="IMage" class="img-fluid"></a>
+           </div>
+           <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item card1 " data-aos="fade" data-src="img/site-projetos-graficos/2a299f93577695.5e6860f370df8.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem reiciendis, dolorum illo temporibus culpa eaque dolore rerum quod voluptate doloribus.</p>">
+               <a href="#"><img src="img/site-projetos-graficos/2a299f93577695.5e6860f370df8.jpg" alt="IMage" class="img-fluid"></a>
+           </div>
+           <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item card1 " data-aos="fade" data-src="img/site-projetos-graficos/2a299f93577695.5e6860f370df8.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem reiciendis, dolorum illo temporibus culpa eaque dolore rerum quod voluptate doloribus.</p>">
+               <a href="#"><img src="img/site-projetos-graficos/2a299f93577695.5e6860f370df8.jpg" alt="IMage" class="img-fluid"></a>
+           </div>
+        </div>
+        -->
+<!-- Gallery -->
+<div class="row galeria" id="lightgallery">
+
+
+    <!--============================================|
+    |                                               |
+    |                Cartões de visita              |
+    |                                               |
+    |=============================================-->
+
+
+    <h1 class="mt-5 mb-4" data-src="@Url.Content("~/img/site-projetos-graficos/separador.4.png")">
+        Cartões de Visita
+        <img src="@Url.Content("~/img/site-projetos-graficos/separador.4.png")" style="display: none;">
+    </h1>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="img/site-projetos-graficos/cartoes-de-visita/01.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/cartoes-de-visita/01-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="img/site-projetos-graficos/cartoes-de-visita/02.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/cartoes-de-visita/02-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="img/site-projetos-graficos/cartoes-de-visita/03.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/cartoes-de-visita/03-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="img/site-projetos-graficos/cartoes-de-visita/04.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/cartoes-de-visita/04-thumb.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="img/site-projetos-graficos/cartoes-de-visita/05.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/cartoes-de-visita/05-thumb.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/cartoes-de-visita/06.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/cartoes-de-visita/06-thumb.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/cartoes-de-visita/07.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/cartoes-de-visita/07-thumb.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/cartoes-de-visita/08.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/cartoes-de-visita/08-thumb.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/cartoes-de-visita/09.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/cartoes-de-visita/09-thumb.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/cartoes-de-visita/10.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/cartoes-de-visita/10-thumb.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/cartoes-de-visita/11.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/cartoes-de-visita/11-thumb.jpg" />
+    </div>
+
+
+    <!--============================================|
+    |                                               |
+    |                   Logotipos                   |
+    |                                               |
+    |=============================================-->
+
+
+    <h1 class="mt-5 mb-4" data-src="~/img/site-projetos-graficos/separador.9.png">
+        Identidades Visuais
+        <img src="~/img/site-projetos-graficos/separador.9.png" style="display: none;">
+    </h1>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/logotipos/01.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/logotipos/01-thumb.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/logotipos/02.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/logotipos/02-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/logotipos/04.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/logotipos/04-thumb.png" />
+    </div>
+
+
+    <!--============================================|
+    |                                               |
+    |              Apresentações B2B                |
+    |                                               |
+    |=============================================-->
+
+
+
+    <h1 class="mt-5 mb-4" data-src="~/img/site-projetos-graficos/separador.0.png">
+        Apresentações Gerais e B2B
+        <img src="~/img/site-projetos-graficos/separador.0.png" style="display: none;">
+    </h1>
+
+    <div class="col-4 col-lg-2 row-cols-1 hover-overlay hover-zoom hover-shadow ripple" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/apresentacoes-de-empresa/01.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/apresentacoes-de-empresa/01-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/apresentacoes-de-empresa/02.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/apresentacoes-de-empresa/02-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/apresentacoes-de-empresa/03.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/apresentacoes-de-empresa/03-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/apresentacoes-de-empresa/04.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/apresentacoes-de-empresa/04-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/apresentacoes-de-empresa/05.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/apresentacoes-de-empresa/05-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/apresentacoes-de-empresa/06.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/apresentacoes-de-empresa/06-thumb.png" />
+    </div>
+
+
+
+    <!--============================================|
+    |                                               |
+    |                    Posts                      |
+    |                                               |
+    |=============================================-->
+
+
+    <h1 class="mt-5 mb-4" data-src="~/img/site-projetos-graficos/separador.10.png">
+        Posts
+        <img src="~/img/site-projetos-graficos/separador.10.png" style="display: none;">
+    </h1>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/posts/01.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/posts/01-thumb.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/posts/02.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/posts/02-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/posts/03.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/posts/03-thumb.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/posts/04.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/posts/04-thumb.jpg" />
+    </div>
+
+
+
+    <!--============================================|
+    |                                               |
+    |                   Stories                     |
+    |                                               |
+    |=============================================-->
+
+
+    <h1 class="mt-5 mb-4" data-src="~/img/site-projetos-graficos/separador.11.png">
+        Stories
+        <img src="~/img/site-projetos-graficos/separador.11.png" style="display: none;">
+    </h1>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/stories/01.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/stories/01-thumb.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/stories/02.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/stories/02-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/stories/04.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/stories/04-thumb.jpg" />
+    </div>
+
+
+
+
+    <!--============================================|
+    |                                               |
+    |          Banners e apresentações              |
+    |                                               |
+    |=============================================-->
+
+
+    <h1 class="mt-5 mb-4" data-src="~/img/site-projetos-graficos/separador.1.png">
+        Banners e Pranchas de Apresentação
+        <img src="~/img/site-projetos-graficos/separador.1.png" style="display: none;">
+    </h1>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/banners-e-pranchas-de-apresentacao/01.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/banners-e-pranchas-de-apresentacao/01-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/banners-e-pranchas-de-apresentacao/02.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/banners-e-pranchas-de-apresentacao/02-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/banners-e-pranchas-de-apresentacao/03.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/banners-e-pranchas-de-apresentacao/03-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/banners-e-pranchas-de-apresentacao/04.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/banners-e-pranchas-de-apresentacao/04-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/banners-e-pranchas-de-apresentacao/05.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/banners-e-pranchas-de-apresentacao/05-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/banners-e-pranchas-de-apresentacao/06.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/banners-e-pranchas-de-apresentacao/06-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/banners-e-pranchas-de-apresentacao/07.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/banners-e-pranchas-de-apresentacao/07-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/banners-e-pranchas-de-apresentacao/08.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/banners-e-pranchas-de-apresentacao/08-thumb.png" />
+    </div>
+
+
+    <!--============================================|
+    |                                               |
+    |                Capas de livross               |
+    |                                               |
+    |=============================================-->
+
+
+    <h1 class="mt-5 mb-4" data-src="~/img/site-projetos-graficos/separador.3.png">
+        Capas de Livro
+        <img src="~/img/site-projetos-graficos/separador.3.png" style="display: none;">
+    </h1>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/capas-de-livros/01.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/capas-de-livros/01-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/capas-de-livros/02.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/capas-de-livros/02-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/capas-de-livros/03.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/capas-de-livros/03-thumb.png" />
+    </div>
+
+
+
+    <!--============================================|
+    |                                               |
+    |                    Convites                   |
+    |                                               |
+    |=============================================-->
+
+
+    <h1 class="mt-5 mb-4" data-src="~/img/site-projetos-graficos/separador.5.png">
+        Convites e Panfletos
+        <img src="~/img/site-projetos-graficos/separador.5.png" style="display: none;">
+    </h1>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/convites-e-panfletos/01.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/convites-e-panfletos/01-thumb.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/convites-e-panfletos/02.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/convites-e-panfletos/02-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/convites-e-panfletos/03.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/convites-e-panfletos/03-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/convites-e-panfletos/04.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/convites-e-panfletos/04-thumb.png" />
+    </div>
+
+
+
+
+    <!--============================================|
+    |                                               |
+    |                 Diagramação                   |
+    |                                               |
+    |=============================================-->
+
+
+    <h1 class="mt-5 mb-4" data-src="~/img/site-projetos-graficos/separador.6.png">
+        Diagramações
+        <img src="~/img/site-projetos-graficos/separador.6.png" style="display: none;">
+    </h1>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/diagramacao/01.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/diagramacao/01-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/diagramacao/02.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/diagramacao/02-thumb.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/diagramacao/03.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/diagramacao/03-thumb.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/diagramacao/04.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/diagramacao/04.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/diagramacao/05.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/diagramacao/05.jpg" />
+    </div>
+
+
+
+    <!--============================================|
+    |                                               |
+    |              Ilustração de livros             |
+    |                                               |
+    |=============================================-->
+
+
+    <h1 class="mt-5 mb-4" data-src="~/~/img/site-projetos-graficos/separador.8.png">
+        Ilustrações de Livro
+        <img src="~/img/site-projetos-graficos/separador.8.png" style="display: none;">
+    </h1>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/ilustracao-de-livro/01.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/ilustracao-de-livro/01-thumb.jpg" />
+    </div>
+
+
+    <!--============================================|
+    |                                               |
+    |                   Camisetas                   |
+    |                                               |
+    |=============================================-->
+
+
+    <h1 class="mt-5 mb-4" data-src="~/img/site-projetos-graficos/separador.2.png">
+        Camisetas
+        <img src="~/img/site-projetos-graficos/separador.2.png" style="display: none;">
+    </h1>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/camisetas/01.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/camisetas/01-thumb.png" />
+    </div>
+
+
+    <!--============================================|
+    |                                               |
+    |                   Fachadas                    |
+    |                                               |
+    |=============================================-->
+
+
+    <h1 class="mt-5 mb-4" data-src="~/img/site-projetos-graficos/separador.7.png">
+        Fachadas
+        <img src="~/img/site-projetos-graficos/separador.7.png" style="display: none;">
+    </h1>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/fachadas/01.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/fachadas/01-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/fachadas/02.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/fachadas/02-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/fachadas/03.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/fachadas/03-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/fachadas/04.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/fachadas/04-thumb.png" />
+    </div>
+
+
+
+
+
+    <!--============================================|
+    |                                               |
+    |                 Thumbnails                    |
+    |                                               |
+    |=============================================-->
+
+
+    <h1 class="mt-5 mb-4" data-src="~/img/site-projetos-graficos/separador.12.png">
+        Thumbnails
+        <img src="~/img/site-projetos-graficos/separador.12.png" style="display: none;">
+    </h1>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/thumbnails/01.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/thumbnails/01-thumb.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/thumbnails/02.jpg" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/thumbnails/02-thumb.jpg" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/thumbnails/03.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/thumbnails/03-thumb.png" />
+    </div>
+
+    <div class="col-4 col-lg-2 row-cols-1 mb-3" data-aos="zoom-in-up" data-src="~/img/site-projetos-graficos/thumbnails/04.png" data-sub-html="">
+        <img src="~/img/site-projetos-graficos/thumbnails/04-thumb.png" />
+    </div>
+
+
+</div>
+
+
+<!--Gallery -->
+<!--
+    <div class="site-section" data-aos="fade">
+    <div class="container-fluid">
+
+        <div class="row justify-content-center">
+
+            <div class="col-md-7">
+                <div class="row mb-5">
+                    <div class="col-12 ">
+                        <h2 class="site-section-heading text-center">Jewels</h2>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="row" id="lightgallery">
+             <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item card1 " data-aos="fade" data-src="~/img/site-projetos-graficos/apresentacoes-de-empresa/01.png" data-sub-html="">
+            <a href="#"><img src="img/site-projetos-graficos/apresentacoes-de-empresa/01.png" alt="IMage" class="img-fluid"></a>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item card1 " data-aos="fade" data-src="img/site-projetos-graficos/11b82893577695.5e6860f371ac7.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam omnis quaerat molestiae, praesentium. Ipsam, reiciendis. Aut molestiae animi earum laudantium.</p>">
+                <a href="#"><img src="img/site-projetos-graficos/11b82893577695.5e6860f371ac7.jpg" alt="IMage" class="img-fluid"></a>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item card1 " data-aos="fade" data-src="img/site-projetos-graficos/2a299f93577695.5e6860f370df8.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem reiciendis, dolorum illo temporibus culpa eaque dolore rerum quod voluptate doloribus.</p>">
+                <a href="#"><img src="img/site-projetos-graficos/2a299f93577695.5e6860f370df8.jpg" alt="IMage" class="img-fluid"></a>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item card1 " data-aos="fade" data-src="img/site-projetos-graficos/2a299f93577695.5e6860f370df8.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem reiciendis, dolorum illo temporibus culpa eaque dolore rerum quod voluptate doloribus.</p>">
+                <a href="#"><img src="img/site-projetos-graficos/2a299f93577695.5e6860f370df8.jpg" alt="IMage" class="img-fluid"></a>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item card1 " data-aos="fade" data-src="img/site-projetos-graficos/2a299f93577695.5e6860f370df8.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem reiciendis, dolorum illo temporibus culpa eaque dolore rerum quod voluptate doloribus.</p>">
+                <a href="#"><img src="img/site-projetos-graficos/2a299f93577695.5e6860f370df8.jpg" alt="IMage" class="img-fluid"></a>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 item card1 " data-aos="fade" data-src="img/site-projetos-graficos/2a299f93577695.5e6860f370df8.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem reiciendis, dolorum illo temporibus culpa eaque dolore rerum quod voluptate doloribus.</p>">
+                <a href="#"><img src="img/site-projetos-graficos/2a299f93577695.5e6860f370df8.jpg" alt="IMage" class="img-fluid"></a>
+            </div>
+        </div>
+    </div>
+</div>
+ -->
+
+@section scripts{
+    <script src="~/lib/lightGallery-master/jquery/jquery-3.6.0.min.js"></script>
+    <script src="~/lib/lightGallery-master/dist/js/lightgallery.js"></script>
+    <script src="~/lib/lightGallery-master/lib/jquery.mousewheel.min.js"></script>
+    <script src="~/lib/lightGallery-master/lib/picturefill.min.js"></script>
+    <script src="~/lib/lightGallery-master/dist/js/lightgallery-all.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#lightgallery').lightGallery();
+        });
+    </script>
+}
